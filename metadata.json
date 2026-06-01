@@ -1,0 +1,6 @@
+{
+  "name": "Moe Ko Tun - STEM Education",
+  "description": "Interactive Cambridge-certified physics and mathematics specialist learning portal and adaptive branding portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
